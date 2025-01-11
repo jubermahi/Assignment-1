@@ -1,0 +1,112 @@
+
+.open-sans-<uniquifier> {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+/* header styel */
+.head{
+    font-size:24px;
+    color: rgba(14, 14, 14, 0.5);
+    font-weight: 400;
+    justify-content: space-around;
+}
+.header-file{
+    padding-right:60px; 
+}
+header{
+    max-width:1280px ;
+    margin: 0 20px;
+}
+.hd{
+    display: flex;
+    background-color:#C6E4D6;
+    padding: 80px 100px;
+    border-radius: 24px;
+    justify-content: space-between;
+    
+}
+.head-line{
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.bt{
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 17px 34px;
+    background-color: rgba(0, 106, 80, 1);
+    border: none;
+    border-radius: 8px;
+}
+/* main styel */
+ .titel{
+    color: rgba(14, 14, 14, 1);
+    font-size: 40px ;
+    font-weight: bold;
+    margin: 0 auto;
+ }
+
+.para{
+    color: rgba(14, 14, 14, 0.7);
+    font: 16px;
+}
+.cart-1{
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+    max-width: 410px;
+    padding: 32px;
+}
+.cart-button-1{
+    background-color: rgba(84, 144, 245, 1);
+    color: rgba(255, 255, 255, 1);
+    border-radius: 8px;
+    border: none;
+    padding: 11px 20px;
+}
+.all-cart{
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+}
+.cart-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: bold;
+}
+.cart-discrip{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+}
+.cart-2{
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+    max-width: 410px;
+    padding: 32px;
+}
+.cart-button-2{
+    background-color: #09A15C;
+    color:rgba(255, 255, 255, 1) ;
+    border-radius: 8px;
+    border: none;
+    padding: 11px 20px;
+}
+.cart-3{
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 16px;
+    max-width: 410px;
+    padding: 32px;
+}
+.cart-button-3{
+    color: #FFFFFF;
+    background-color: #FFC239;
+    border-radius: 8px;
+    border: none;
+    padding: 11px 20px;
+}
