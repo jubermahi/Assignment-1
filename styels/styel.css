@@ -130,3 +130,54 @@ main{
 .emni{
     color: rgba(14, 14, 14, 0.6);
 }
+/* news */
+.news-hd{
+    color:#0E0E0E ;
+    font size: 40px; 
+    font-weight: bold;
+}
+.news-para{
+    color:rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+}
+/* stalaite */
+.all-satelite{
+display: flex;
+gap: 32px;
+box-sizing: border-box;
+ border:1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    margin-top: 32px;
+    padding: 48px 24px;
+}
+.st-img{
+    border: none;
+    border-radius: 24px;
+}
+.satelite-hd{
+color: rgba(14, 14, 14, 0.8);
+font-size: 32px;
+font-weight: bold;
+}
+.satelite-bt{
+background-color: rgba(0, 106, 80, 1);
+color: #FFFFFF;
+border-radius: 8px;
+padding: 13px 26px;
+}
+.Date{
+color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+}
+/* footer */
+.footer-hd{
+    color: rgba(14, 14, 14, 1);
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.footer-para{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+    text-align: center;
+}
