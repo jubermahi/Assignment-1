@@ -46,6 +46,10 @@ header{
     border-radius: 8px;
 }
 /* main styel */
+main{
+    max-width: 1280px;
+    margin: 0 20px;
+}
  .titel{
     color: rgba(14, 14, 14, 1);
     font-size: 40px ;
