@@ -181,3 +181,48 @@ font-size: 16px;
     color: rgba(14, 14, 14, 0.7);
     text-align: center;
 }
+.bar{
+    border-radius: 16px;
+    border: none;
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 40px;
+    font-weight: bold;
+    box-sizing: border-box;
+ border:1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    margin-top: 32px;
+    padding: 48px 24px;
+    height: 128px;
+    width: 240px;
+
+
+}
+.bhalo{
+    display: flex;
+    gap: 24px;
+    margin-left: 160px;
+}
+.p-1{
+    display: inline;
+}
+.vip{
+    background-color: rgba(198, 228, 214, 1);
+}
+.input-1{
+    text-align: center;
+    width: 900px;
+    height: 40px;
+    padding: 20px 40px;
+    background-color: rgba(255, 255, 255, 1);
+    margin: 20px;
+    margin-left: 180px;
+    
+}
+.footer-bt{
+    background-color: rgba(0, 106, 80, 1);
+    color:#FFFFFF ;
+    border: none;
+    border-radius: 8px;
+    padding: 17px 34px ;
+    margin-left: 600px;
+}
