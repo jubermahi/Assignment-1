@@ -114,3 +114,19 @@ main{
     border: none;
     padding: 11px 20px;
 }
+.younus{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    flex:none
+}
+.yunu{
+    box-sizing: border-box;
+    border:1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    margin-top: 32px;
+    padding: 48px 24px;
+}
+.emni{
+    color: rgba(14, 14, 14, 0.6);
+}
